@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-/* int main(){
+int main(){
     int x,y;
     cout << "Enter the value of x: ";
     cin >> x;
@@ -9,7 +9,7 @@ using namespace std;
     cin >> y;
     cout << "Value of x is: " << x << endl << "And value of y is: " << y;
     return 0;
-} */
+}
 
 int main(){
     // int 
@@ -32,3 +32,18 @@ int main(){
     c = 'B';
     return 0;
 }
+
+int main(){
+    int vayass;
+    cout << "Enter your age: ";
+    cin >> vayass;
+    if (vayass >= 18){
+        cout << "Adult Ahnu Nii";
+    } else {
+        cout << "Kochu kutty thenne nii hehe";
+    }
+    return 0;
+}
+
+// switch case same as C lang
+
