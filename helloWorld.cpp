@@ -26,5 +26,9 @@ int main(){
     string s;
     getline (cin, s); // getline takes the entire line! while cin take only one word per string
     cout << "The entered string is: " << s;
+
+    // char
+    char c;
+    c = 'B';
     return 0;
 }
