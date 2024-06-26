@@ -28,3 +28,5 @@ int main(){
     cout << "Again the sum is: " << function4(a,b);
     return 0;
 }
+
+// pass by value and pass by reference, ezy same as C
